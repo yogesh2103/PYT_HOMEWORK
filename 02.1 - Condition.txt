@@ -1,0 +1,41 @@
+
+
+a = True
+b = True
+c = False
+
+if a:
+	print("1")
+The code will print: 1
+
+if b:
+	print("2")
+The code will print: 2
+
+if c:
+	print("3")
+The code will print: 
+
+if a and b:
+	print("4")
+The code will print: 4
+
+if a and c:
+	print("5")
+The code will print: 
+
+if b and c:
+	print("6")
+The code will print: 
+
+if a or b:
+	print("7")
+The code will print: 7
+
+if a or c:
+	print("8")
+The code will print: 8
+
+if b or c:
+	print("9")
+The code will print: 9
